@@ -1,4 +1,4 @@
-package Repaso_general_progra;
+package Ejercicios_PrograII;
 /**
  * @author rolan
  */
