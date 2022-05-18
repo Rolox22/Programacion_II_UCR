@@ -1,4 +1,4 @@
-package Laboratorio_1;
+package Laboratorio_1_Collections;
 /**
  * @author "Rolando Murillo Aguirre"
  * 

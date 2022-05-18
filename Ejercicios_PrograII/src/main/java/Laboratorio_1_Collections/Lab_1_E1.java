@@ -1,4 +1,4 @@
-package Laboratorio_1;
+package Laboratorio_1_Collections;
 
 import java.util.Scanner;
 import java.util.Stack;

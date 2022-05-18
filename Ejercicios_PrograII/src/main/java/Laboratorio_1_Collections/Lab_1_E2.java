@@ -1,6 +1,6 @@
-package Laboratorio_1;
+package Laboratorio_1_Collections;
 
-import Laboratorio_1.EstudianteLab_1;
+import Laboratorio_1_Collections.EstudianteLab_1;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
