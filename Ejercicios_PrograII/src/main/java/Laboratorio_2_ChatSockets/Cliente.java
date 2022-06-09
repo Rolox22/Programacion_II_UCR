@@ -48,7 +48,7 @@ public class Cliente extends Frame implements ActionListener
     {
         //LocalHost : IP de la compu
         // 00.00.000.000 : IP de otra compu para conectar
-      sfd = new Socket("LocalHost",8000);
+      sfd = new Socket("LocalHost",8088);
       EntradaSocket = new DataInputStream(new BufferedInputStream(sfd.getInputStream()));
       SalidaSocket = new DataOutputStream(new BufferedOutputStream(sfd.getOutputStream()));
         System.out.println("Digite su nombre");
